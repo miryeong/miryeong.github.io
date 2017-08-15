@@ -13,10 +13,11 @@ body {
 	}
 a {
 	text-decoration:none;
-	color:#66c1ad;
+	color:#6ca654;
 }
 a:hover {
 	font-weight:bold;
+	font-family: 'Quicksand', sans-serif;
 }
 ul {
 	margin:0;
@@ -26,7 +27,7 @@ li {
 	list-style-type:none;
 }
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'Bubbler One', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	font-weight: bold;
 }
 
@@ -35,6 +36,7 @@ hr {
 }
 header {
 	width:100%;
+	font-family: 'Quicksand', sans-serif;
 }
 nav {
 	width:100%;
@@ -43,8 +45,8 @@ nav {
 nav ul {
 	width: 100%;
 	overflow:hidden;
-	border-bottom: 2px solid #66c1ad;
-	border-top: 2px solid #66c1ad;
+	border-bottom: 2px solid #75bc5a;
+	border-top: 2px solid #75bc5a;
 }
 nav ul li {
 	min-width:75px;
@@ -55,7 +57,7 @@ nav ul li {
     font-size:1em;
 }
 nav ul li:hover {
-	background-color:#66c1ad;
+	background-color:#75bc5a;
 	color:white;
 	transition: 0.3s all ease;
 }
@@ -75,7 +77,7 @@ hr {
 	clear:left;
 } 
 span.highlight {
-	background-color:#50e3c2;
+	background-color:#a9d283;
 }
 
 div {
