@@ -1,7 +1,7 @@
 $(document).ready(function(){ 
 	$(window).scroll(function() { 
 		if ($(document).scrollTop()>200) { 
-				  $("#myBar1").animate({width:"70%"},2000);
+				  $("#myBar1").animate({width:"88%"},2000);
 		}
 	});
 });
